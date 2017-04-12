@@ -1,0 +1,30 @@
+Triangle
+Points: (10;10) (100;100) (10;100) 
+Perimeter: 307,279220613579
+Area: 4050
+
+Quadrangle
+Points: (120;20) (220;20) (220;120) (120;120) 
+Perimeter: 400
+Area: 10000
+
+Triangle
+Points: (10;110) (110;110) (110;210) 
+Perimeter: 341,42135623731
+Area: 5000
+
+Quadrangle
+Points: (140;130) (260;130) (260;250) (140;250) 
+Perimeter: 480
+Area: 14400
+
+Quadrangle
+Points: (250;20) (400;20) (400;260) (250;260) 
+Perimeter: 780
+Area: 36000
+
+Triangle
+Points: (10;120) (220;350) (10;350) 
+Perimeter: 751,448230047949
+Area: 24150
+

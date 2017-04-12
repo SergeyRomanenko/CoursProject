@@ -1,0 +1,11 @@
+D:\курсач\програмування\cours\cours\cours\bin\Debug\cours.exe.config
+D:\курсач\програмування\cours\cours\cours\bin\Debug\cours.exe
+D:\курсач\програмування\cours\cours\cours\bin\Debug\cours.pdb
+D:\курсач\програмування\cours\cours\cours\obj\Debug\cours.csprojResolveAssemblyReference.cache
+D:\курсач\програмування\cours\cours\cours\obj\Debug\cours.Form1.resources
+D:\курсач\програмування\cours\cours\cours\obj\Debug\cours.Properties.Resources.resources
+D:\курсач\програмування\cours\cours\cours\obj\Debug\cours.csproj.GenerateResource.Cache
+D:\курсач\програмування\cours\cours\cours\obj\Debug\cours.exe
+D:\курсач\програмування\cours\cours\cours\obj\Debug\cours.pdb
+D:\курсач\програмування\cours\cours\cours\obj\Debug\cours.AboutBox1.resources
+D:\курсач\програмування\cours\cours\cours\obj\Debug\cours.AboutBox2.resources
